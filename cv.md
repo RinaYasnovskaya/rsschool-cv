@@ -14,7 +14,7 @@ I want to become a *Front-end developer* and improve my skills in this field. An
 * JavaScript
 
 ## Code examples
-my code
+my [code](https://github.com/RinaYasnovskaya)
 
 ## Education
 *2015-2019*:  
