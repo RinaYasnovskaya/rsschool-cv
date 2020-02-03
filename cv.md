@@ -2,6 +2,8 @@
 >       i became a butterfly.
 
 ## Contacts
+* telegram: @PSURS
+* e-mail: rina.yasnovskaya@gmail.com
 
 ## Summary
 I want to become a *Front-end developer* and improve my skills in this field. And i'll do anything for that. 
