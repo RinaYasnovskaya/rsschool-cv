@@ -2,7 +2,7 @@
 >       i became a butterfly.
 
 ## Contacts
-* telegram: @IHUMFB
+* telegram: @IHUMB
 * e-mail: rina.yasnovskaya@gmail.com
 * github: my [GitHub](https://github.com/RinaYasnovskaya)
 * discord: saudade#5559
