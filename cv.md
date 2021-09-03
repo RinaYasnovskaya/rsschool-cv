@@ -40,3 +40,16 @@ function orderBreaker(input) {
   return res;
 }
 ```
+
+## Education
+*2015-2019*:  
+**YURI GAGARIN STATE TECHNICAL UNIVERSITY OF SARATOV**
+
+*2020*:  
+**RS 2020 Q1 (JavaScript)**
+
+*06.2021 - 08.2021*:
+**Академия Яндекса - Школа разработки интерфейсов**
+
+## English
+Pre-Intermediate (A2).
