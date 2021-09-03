@@ -1,3 +1,3 @@
 # rsschool-cv
 
-github pages: https://rinayasnovskaya.github.io/rsschool-cv/
+github pages: https://rinayasnovskaya.github.io/rsschool-cv/cv
