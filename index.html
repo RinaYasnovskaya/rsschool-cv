@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="wrapper">
+    <header class="header">
+      <div class="icon">
+        <img src="assets/icon.jpg" alt="Karina Yasnovskaya">
+      </div>
+      <div class="title">
+        <h1 class="title-name">Karina Yasnovskaya</h1>
+        <q class="quote">i became a butterfly.</q>
+      </div>
+    </header>
+    <main class="main">
+      <div class="main-left">
+        <section class="contact">
+          <h2 class="h2-left">contacts</h2>
+          <ul>
+            <li>telegram: <a href="https://t.me/IHUMB">@IHUMB</a></li>
+            <li class="email">e-mail: rina.yasnovskaya@gmail.com </li>
+            <li>github: <a href="https://github.com/RinaYasnovskaya">my GitHub</a></li>
+            <li>discord: saudade#5559</li>
+          </ul>
+        </section>
+        <section class="skills">
+          <h2 class="h2-left">skills</h2>
+          <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Webpack</li>
+            <li>TypeScript</li>
+            <li>React, CRA</li>
+            <li>Redux</li>
+            <li>SASS</li>
+            <li>NodeJS (understand a little) / Express</li>
+            <li>Git, Git Bash</li>
+            <li>Jest (a little)</li>
+            <li>Figma, Photoshop</li>
+            <li>Visual Studio Code</li>
+            <li>DevTools</li>
+          </ul>
+        </section>
+      </div>
+      <div class="main-right">
+        <section class="summary">
+          <h2>about me</h2>
+          <p>
+            I want to become a <b>Front-end developer</b> and improve my skills in this field. 
+            And i'll do anything for that.  
+            My strengths are: discipline, responsibility and self-organization.
+          </p>
+        </section>
+        <section class="education">
+          <h2>education</h2>
+          <p><b>2015-2019:</b>  YURI GAGARIN STATE TECHNICAL UNIVERSITY OF SARATOV</p>
+          <p><b>2020:</b>  RS 2020 Q1 (JavaScript)</p>
+          <p><b>06.2021 - 08.2021:</b> Академия Яндекса - Школа разработки интерфейсов</p>
+        </section>
+        <section class="english">
+          <h2>english</h2>
+          <span>Pre-Intermediate (A2)</span>
+        </section>
+        <section class="code-examples">
+          <h2>code examples</h2>
+          <pre>
+    function orderBreaker(input) {
+        let res;
+        
+        input.forEach((item, index, arr) => {
+          if (item > arr[index+1]) {
+            res = (arr[index+1] < arr[index-1]) ? res = arr[index+1] : item;
+          }
+        });
+            
+        return res;
+      }
+          </pre>
+        </section>
+      </div>
+    </main>
+    <footer class="footer"></footer>
+  </div>
+</body>
+</html>
